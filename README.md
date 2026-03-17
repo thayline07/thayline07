@@ -49,3 +49,11 @@ Tenho interesse em desenvolvimento front-end e gosto de criar interfaces intuiti
 ## 📫 Contato
 
 ✉️ thaylinesimioni@gmail.com
+
+---
+
+## 📊 GitHub Stats
+
+![Thayline GitHub stats](https://github-readme-stats.vercel.app/api?username=thayline07&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thayline07&layout=compact&theme=radical)
