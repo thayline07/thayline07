@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Thayline
 
-<!--
-**thayline07/thayline07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Matemática Aplicada e Computacional — UFRGS  
+💻 Desenvolvedora Front-end  
+🚀 Focada em React, Next.js e interfaces modernas  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+
+Sou formada em técnico em informática pelo IFRS, onde participei de projetos de robótica educacional e atuei como monitora de matemática.
+
+Tenho interesse em desenvolvimento front-end e gosto de criar interfaces intuitivas, responsivas e bem estruturadas.
+
+---
+
+## 🚀 Tecnologias
+
+### 💻 Front-end
+- HTML
+- CSS
+- JavaScript
+- React
+- Next.js
+- React Native
+
+### ⚙️ Back-end (básico)
+- Node.js
+- SQL
+
+### 🛠 Ferramentas
+- Git
+- GitHub
+- Figma
+
+---
+
+## 📌 Projetos em destaque
+
+🔹 Em breve...
+
+---
+
+## 📫 Contato
+
+✉️ thaylinesimioni@gmail.com
