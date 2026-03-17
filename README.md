@@ -33,6 +33,11 @@ Tenho interesse em desenvolvimento front-end e gosto de criar interfaces intuiti
 - GitHub
 - Figma
 
+![React](https://img.shields.io/badge/-React-000?&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+
 ---
 
 ## 📌 Projetos em destaque
