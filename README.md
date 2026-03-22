@@ -9,7 +9,7 @@
 
 ## 🧠 Sobre mim
 
-Sou formada em técnico em informática pelo IFRS, onde participei de projetos de robótica educacional e atuei como monitora de matemática.
+Sou formada em técnico em manutenção e suporte em informática pelo IFRS, onde participei de projetos de robótica educacional e atuei como monitora de matemática.
 
 Tenho interesse em desenvolvimento front-end e gosto de criar interfaces intuitivas, responsivas e bem estruturadas.
 
