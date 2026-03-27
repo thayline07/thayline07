@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou a Thayline Simioni  
-### 💻 Desenvolvedora Front-end | React & Next.js
+### 💻 Desenvolvedora Front-end | React • Next.js • React Native 
 
 🎓 Estudante de Matemática Aplicada e Computacional — UFRGS  
 🚀 Em busca de estágio em desenvolvimento front-end  
